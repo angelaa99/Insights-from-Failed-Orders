@@ -1,5 +1,9 @@
 # Insights-from-Failed-Orders
 
+## Description
+
+This project is inspired by stratascratch.com, where I will implement Python to perform data exploratory analysis for insights from failed order in the Gett app. For visualization, the insights will be showcased by using both matplotlib and seaborn. 
+
 ## Background
 
 Gett, previously known as GetTaxi, is an Israeli-developed technology platform solely focused on corporate Ground Transportation Management (GTM). They have an application where clients can order taxis, and drivers can accept their rides (offers). At the moment, when the client clicks the Order button in the application, the matching system searches for the most relevant drivers and offers them the order. 
